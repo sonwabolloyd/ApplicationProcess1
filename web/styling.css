@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 24, 2017, 9:53:03 PM
+    Author     : Lloyd
+*/
+
+
+
+html {  
+        font-family: Lobster, Monospace;
+}   
+input, option {
+        font-family: Lobster, Monospace;     
+} 
+table { 
+        border ='0' 
+        width='480px' 
+        cellpadding='0' 
+        cellspacing='0' 
+        align='center'
+}
+input {
+        width: 200px;
+}
+.black-bg {
+        background-color: black; 
+        color: white;
+}
+.font_size {
+        font-size:75px; 
+}
+.link_image {
+        width:42px;
+        height:42px;
+        border:0
+}
+.image_small {
+        width:#px;
+        height:#px;
+} 
+.image_medium {
+        width:#px;
+        height:#px;
+}
+.image_large {
+        width:750px;
+        height:300px;
+}
+.search {
+        padding:8px 15px;
+        background:rgba(50, 50, 50, 0.2);
+        border:0px solid #dbdbdb;
+}
+.button {
+        position:relative;
+        padding:6px 15px;
+        left:-8px;
+        border:2px solid #207cca;
+        background-color:#207cca;
+        color:#fafafa;
+        width: 100px;
+}
+.button:hover  {
+        background-color:#fafafa;
+        color:#207cca;
+}
+
+.lobster {
+        font-family: Lobster, Monospace;        
+}
+.stretch {
+        width:230px;
+}    
+.stretch2 {
+        width:200px;
+}
+.stretch3 {
+        width:160px;    
+}
+
